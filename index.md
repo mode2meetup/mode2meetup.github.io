@@ -1,6 +1,8 @@
 <center>
+
 ![Mode 2 Meetup Logo](resources/Mode 2 Logo.png)
 #Mode 2 Meetup
+
 </center>
 
 ## What is it?
