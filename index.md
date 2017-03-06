@@ -18,7 +18,7 @@ Each meetup will feature two short talks and a chance to connect with IT innovat
 
 ### #6 March 22nd 2017 6pm, Royal London, Thistle Street
 
-**Tickets available here: [EventBrite page(https://www.eventbrite.co.uk/e/mode-2-meetup-tickets-32532936890)**
+**Tickets available here: [EventBrite page](https://www.eventbrite.co.uk/e/mode-2-meetup-tickets-32532936890)**
 
 #### Getting there
 
