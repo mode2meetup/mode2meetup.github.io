@@ -16,7 +16,29 @@ Each meetup will feature two short talks and a chance to connect with IT innovat
 
 ## Next Event
 
-Watch [our twitter](https://twitter.com/mode2meetup) for details on the next event, likely to be in February 2017
+### #6 March 22nd 2017 6pm, Royal London, Thistle Street
+
+**Tickets available here: [EventBrite page(https://www.eventbrite.co.uk/e/mode-2-meetup-tickets-32532936890)**
+
+#### Getting there
+
+The Royal London building is on the corner of Thistle St and North St David Street, [here](https://goo.gl/maps/Gbgpxv1g6AA2)
+
+#### Talks
+* Stuart Barlow, Senior Systems Developer, Standard Life 
+
+  *Fear and Testing in Edin-Vegas*
+
+> A story of process, technology, people  and how visible, repeatable testing starts to shine a light and open the doors to a maintainable system.
+
+
+* Rob Howell, Senior Javascript Engineer, Tesco Bank
+
+   *React in the Enterprise* 
+
+> React has proven to be a very popular tool for web application development, but within enterprise-scale businesses it presents a unique set of strengths and challenges. I would like to give a basic introduction to what React is, why companies are using it, and provide some insight into how it fits in the enterprise.
+
+
 
 ## Sponsorship & Speakers
 
