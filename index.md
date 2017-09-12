@@ -1,6 +1,6 @@
 <center>
 
-![Mode 2 Meetup Logo](resources/Mode 2 Logo.png)
+![Mode 2 Meetup Logo](resources/Mode2Logo.png)
 #Mode 2 Meetup
 
 </center>
@@ -8,26 +8,39 @@
 ## What is it?
 
 Mode 2 is a regular meetup about IT innovation within large companies across central Scotland.
- 
-Each meetup will feature two short talks and a chance to connect with IT innovators in a relaxed environment with free beer/wine and pizza. 
 
-**Follow us on Twitter**: [@Mode2Meetup](https://twitter.com/mode2meetup)  
+Each meetup will feature two short talks and a chance to connect with IT innovators in a relaxed environment with free beer/wine and pizza.
+
+**Follow us on Twitter**: [@Mode2Meetup](https://twitter.com/mode2meetup)
 **Email us at:** [mode2meetup@gmail.com](mailto:mode2meetup@gmail.com)
 
 
 
 ## Next Event
 
-### #6 March 22nd 2017 6pm, Royal London, Thistle Street
+### September 27th 2017 6pm, Venue TBC
 
 **Tickets available here: [EventBrite page](https://www.eventbrite.co.uk/e/mode-2-meetup-tickets-32532936890)**
 
 #### Getting there
 
-The Royal London building is on the corner of Thistle St and North St David Street, [here](https://goo.gl/maps/Gbgpxv1g6AA2)
+TBC
 
 #### Talks
-* Stuart Barlow, Senior Systems Developer, Standard Life 
+
+* Scott Finnie, CTO
+
+  *hashtag agile*
+
+## Sponsorship & Speakers
+
+We are always looking for sponsors and speakers. If you feel that you would like to speak, or have a venue that you could host our meetup in, please get in touch via [email](mailto:mode2meetup@gmail.com)
+
+## Previous Events
+
+### March 22nd 2017 6pm, Royal London, Thistle Street
+
+* Stuart Barlow, Senior Systems Developer, Standard Life
 
   *Fear and Testing in Edin-Vegas*
 
@@ -36,17 +49,9 @@ The Royal London building is on the corner of Thistle St and North St David Stre
 
 * Rob Howell, Senior Javascript Engineer, Tesco Bank
 
-   *React in the Enterprise* 
+   *React in the Enterprise*
 
 > React has proven to be a very popular tool for web application development, but within enterprise-scale businesses it presents a unique set of strengths and challenges. I would like to give a basic introduction to what React is, why companies are using it, and provide some insight into how it fits in the enterprise.
-
-
-
-## Sponsorship & Speakers
-
-We are always looking for sponsors and speakers. If you feel that you would like to speak, or have a venue that you could host our meetup in, please get in touch via [email](mailto:mode2meetup@gmail.com)
-
-## Previous Events
 
 ### #5 November 30th 2016, Registers of Scotland, Meadowbank House
 #### Talks
@@ -67,12 +72,12 @@ We are always looking for sponsors and speakers. If you feel that you would like
 
 [slides of talk](https://drive.google.com/open?id=0Bxk-xK1iAvteRThSZU5JRWVzbEk)
 
-### #4 September 21st 2016, Royal Bank of Scotland, Gogarburn 
+### #4 September 21st 2016, Royal Bank of Scotland, Gogarburn
 #### Talks
-* [Rachel Wilmer](https://twitter.com/rwillmer), Owner, Luzme.com: 
+* [Rachel Willmer](https://twitter.com/rwillmer), Owner, Luzme.com:
 
  * Firebase overview
- 
+
  Firebase was an easy-to-use real-time database. And then Google bought the company. This year, Google repositioned Firebase as a complete mobile platform that helps you quickly develop, deploy and monetise high-quality apps. In this talk, Rachel will give you an overview of what Firebase can do for you, and a frank opinion of what's good (and not so good) about it.
 
 * [Udita Banerjee](https://twitter.com/auditbanshee), RBS
@@ -82,12 +87,12 @@ We are always looking for sponsors and speakers. If you feel that you would like
  Udita works for the RBS Solutions Innovation Engineering team and is helping create and communicate the API strategy for the bank. She is a serial Hackathon organiser and an online and social media marketer. She has led initiatives to communicate RBS’ strategy internally and externally and is focussed on fostering and developing relationships with FinTechs.
 
 
-### #3 May 25th 2016, CodeClan 
+### #3 May 25th 2016, CodeClan
 #### Talks
-* [Harvey Wheaton](https://twitter.com/harveywheaton), CEO - Codeclan: 
+* [Harvey Wheaton](https://twitter.com/harveywheaton), CEO - Codeclan:
 
- *Are you the Problem?!*  
- 
+ *Are you the Problem?!*
+
  Moving to an Agile environment is a fundamental and all-pervasive mindset shift that needs to start at the top of an organisation. Drawing on his experience of Agile transformations in a variety of companies, Harvey will challenge leaders to wake up from the "illusion of control" that can render Agile impotent. [Video of talk](https://www.youtube.com/watch?v=pH3SOLUp3v8)
 
 * [Clare Barnett](https://twitter.com/ClareBarnett), Snr. UX Designer -  Registrars of Scotland
@@ -101,8 +106,8 @@ We are always looking for sponsors and speakers. If you feel that you would like
 ####Talks
 * Robert McGill, Head of Digital Delivery - Standard Life
 
- *IT's not enough*  
- 
+ *IT's not enough*
+
  Technology is changing faster than our ability to take advantage of it. In this talk Robert McGill, Head of Digital at Standard Life, will talk about some of the challenges IT is facing and share some ideas from his experience about how to handle them. [Video of talk]()
 
 * [Clarke Ching](https://twitter.com/clarkeching), Snr. UX Designer -  Registrars of Scotland
@@ -114,9 +119,9 @@ We are always looking for sponsors and speakers. If you feel that you would like
 
 ### #1 November 25th 2015, Standard life House
 ####Talks
-* [Martin Pllu](https://twitter.com/martinpllu), Technical Architect - Standard Life  
+* [Martin Pllu](https://twitter.com/martinpllu), Technical Architect - Standard Life
 
- *How we built Mode 2 at Standard Life*  
+ *How we built Mode 2 at Standard Life*
 
 
 * [Jamie Stewart](https://twitter.com/jamsstu), Software Developer - Standard Life
