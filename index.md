@@ -18,19 +18,29 @@ Each meetup will feature two short talks and a chance to connect with IT innovat
 
 ## Next Event
 
-### September 27th 2017 6pm, Venue TBC
+### September 27th 2017 6pm, Venue Hyman Robertsons, Semple Street
 
-**Tickets available here: [EventBrite page](https://www.eventbrite.co.uk/e/mode-2-meetup-tickets-32532936890)**
+**Tickets available here: [EventBrite page](https://www.eventbrite.co.uk/e/mode-2-meetup-tickets-37904441204)**
 
 #### Getting there
 
-TBC
+See Eventbrite page for details
 
 #### Talks
 
-* Scott Finnie, CTO
+* Paul Makin,
 
-  *hashtag agile*
+> Despite the presence of some very bright people, the established financial sector does not have a reputation for innovation. During this short presentation, Paul will explore why this is the case, and how - and if - it can be addressed. He'll be drawing on his experience of working with teams developing innovative services in banks and other corporates, looking at where this has gone well, where it has failed, and what lessons can be drawn.
+
+** About Paul
+
+Paul has been working in fintech since long before it got that name, from the truly innovative (various precursors to Bitcoin) to the mundane (variations of card products for banks). His principal claim to fame is as the concept developer for M-Pesa in Kenya, by far the most successful non-bank financial service in the world. He has worked with banks, non-banks, financial regulators and others across Africa, South Asia, Europe and North America. Sometimes his ideas have survived the process.
+
+* Scott Finnie, Product Architect, Hymans Robertson
+
+  *#agilerobocloud: 3 years behind the buzzwords*
+
+> In January 2014, Hymans Robertson embarked on delivering a new “Robo-advice” offering using cloud-based, agile delivery. 3 years later we have a successful product that’s won several industry awards. In this talk, we’ll take a frank look at the journey behind the product: what went well, what didn’t; what we’ve learned and where we still have puzzles.
 
 ## Sponsorship & Speakers
 
